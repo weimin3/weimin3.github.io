@@ -5,6 +5,7 @@ enableInlineShortcodes: true
 enableRobotsTXT: true
 paginate: 20
 
+
 taxonomies:
     tag: tags
 
