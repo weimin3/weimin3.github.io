@@ -1,10 +1,9 @@
 baseURL: "https://pascalmichaillat.org/" 
 title: Pascal Michaillat
 theme: PaperMod
-paginate: 20
-
 enableInlineShortcodes: true
 enableRobotsTXT: true
+paginate: 20
 
 taxonomies:
     tag: tags
