@@ -11,20 +11,111 @@
     </image>
     <generator>Hugo -- 0.135.0</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 11 Oct 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 25 Oct 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://pascalmichaillat.org/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Borjas-Card controversy</title>
-      <link>https://pascalmichaillat.org/tags/borjas-card-controversy/</link>
-      <pubDate>Thu, 03 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>https://pascalmichaillat.org/tags/borjas-card-controversy/</guid>
+      <title>Beveridge curve</title>
+      <link>https://pascalmichaillat.org/tags/beveridge-curve/</link>
+      <pubDate>Fri, 25 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://pascalmichaillat.org/tags/beveridge-curve/</guid>
       <description></description>
     </item>
     <item>
       <title>business cycles</title>
       <link>https://pascalmichaillat.org/tags/business-cycles/</link>
-      <pubDate>Thu, 03 Oct 2024 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 25 Oct 2024 00:00:00 +0000</pubDate>
       <guid>https://pascalmichaillat.org/tags/business-cycles/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>directed search</title>
+      <link>https://pascalmichaillat.org/tags/directed-search/</link>
+      <pubDate>Fri, 25 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://pascalmichaillat.org/tags/directed-search/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>divine coincidence</title>
+      <link>https://pascalmichaillat.org/tags/divine-coincidence/</link>
+      <pubDate>Fri, 25 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://pascalmichaillat.org/tags/divine-coincidence/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>economic slack</title>
+      <link>https://pascalmichaillat.org/tags/economic-slack/</link>
+      <pubDate>Fri, 25 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://pascalmichaillat.org/tags/economic-slack/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>inflation</title>
+      <link>https://pascalmichaillat.org/tags/inflation/</link>
+      <pubDate>Fri, 25 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://pascalmichaillat.org/tags/inflation/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>kinked Phillips curve</title>
+      <link>https://pascalmichaillat.org/tags/kinked-phillips-curve/</link>
+      <pubDate>Fri, 25 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://pascalmichaillat.org/tags/kinked-phillips-curve/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>matching model</title>
+      <link>https://pascalmichaillat.org/tags/matching-model/</link>
+      <pubDate>Fri, 25 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://pascalmichaillat.org/tags/matching-model/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>monetary policy</title>
+      <link>https://pascalmichaillat.org/tags/monetary-policy/</link>
+      <pubDate>Fri, 25 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://pascalmichaillat.org/tags/monetary-policy/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Phillips curve</title>
+      <link>https://pascalmichaillat.org/tags/phillips-curve/</link>
+      <pubDate>Fri, 25 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://pascalmichaillat.org/tags/phillips-curve/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>price rigidity</title>
+      <link>https://pascalmichaillat.org/tags/price-rigidity/</link>
+      <pubDate>Fri, 25 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://pascalmichaillat.org/tags/price-rigidity/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>tightness gap</title>
+      <link>https://pascalmichaillat.org/tags/tightness-gap/</link>
+      <pubDate>Fri, 25 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://pascalmichaillat.org/tags/tightness-gap/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>unemployment gap</title>
+      <link>https://pascalmichaillat.org/tags/unemployment-gap/</link>
+      <pubDate>Fri, 25 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://pascalmichaillat.org/tags/unemployment-gap/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>wealth in the utility</title>
+      <link>https://pascalmichaillat.org/tags/wealth-in-the-utility/</link>
+      <pubDate>Fri, 25 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://pascalmichaillat.org/tags/wealth-in-the-utility/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Borjas-Card controversy</title>
+      <link>https://pascalmichaillat.org/tags/borjas-card-controversy/</link>
+      <pubDate>Thu, 03 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://pascalmichaillat.org/tags/borjas-card-controversy/</guid>
       <description></description>
     </item>
     <item>
@@ -49,17 +140,10 @@
       <description></description>
     </item>
     <item>
-      <title>matching model</title>
-      <link>https://pascalmichaillat.org/tags/matching-model/</link>
+      <title>politics</title>
+      <link>https://pascalmichaillat.org/tags/politics/</link>
       <pubDate>Thu, 03 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>https://pascalmichaillat.org/tags/matching-model/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>migration</title>
-      <link>https://pascalmichaillat.org/tags/migration/</link>
-      <pubDate>Thu, 03 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>https://pascalmichaillat.org/tags/migration/</guid>
+      <guid>https://pascalmichaillat.org/tags/politics/</guid>
       <description></description>
     </item>
     <item>
@@ -81,13 +165,6 @@
       <link>https://pascalmichaillat.org/tags/wage-rigidity/</link>
       <pubDate>Thu, 03 Oct 2024 00:00:00 +0000</pubDate>
       <guid>https://pascalmichaillat.org/tags/wage-rigidity/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Beveridge curve</title>
-      <link>https://pascalmichaillat.org/tags/beveridge-curve/</link>
-      <pubDate>Fri, 27 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>https://pascalmichaillat.org/tags/beveridge-curve/</guid>
       <description></description>
     </item>
     <item>
@@ -123,27 +200,6 @@
       <link>https://pascalmichaillat.org/tags/labor-force-participation/</link>
       <pubDate>Fri, 27 Sep 2024 00:00:00 +0000</pubDate>
       <guid>https://pascalmichaillat.org/tags/labor-force-participation/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>labor-market tightness</title>
-      <link>https://pascalmichaillat.org/tags/labor-market-tightness/</link>
-      <pubDate>Fri, 27 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>https://pascalmichaillat.org/tags/labor-market-tightness/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>monetary policy</title>
-      <link>https://pascalmichaillat.org/tags/monetary-policy/</link>
-      <pubDate>Fri, 27 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>https://pascalmichaillat.org/tags/monetary-policy/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>unemployment gap</title>
-      <link>https://pascalmichaillat.org/tags/unemployment-gap/</link>
-      <pubDate>Fri, 27 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>https://pascalmichaillat.org/tags/unemployment-gap/</guid>
       <description></description>
     </item>
     <item>
@@ -207,6 +263,13 @@
       <link>https://pascalmichaillat.org/tags/dmp-model/</link>
       <pubDate>Fri, 23 Aug 2024 00:00:00 +0000</pubDate>
       <guid>https://pascalmichaillat.org/tags/dmp-model/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>labor-market tightness</title>
+      <link>https://pascalmichaillat.org/tags/labor-market-tightness/</link>
+      <pubDate>Fri, 23 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://pascalmichaillat.org/tags/labor-market-tightness/</guid>
       <description></description>
     </item>
     <item>
@@ -301,62 +364,6 @@
       <description></description>
     </item>
     <item>
-      <title>directed search</title>
-      <link>https://pascalmichaillat.org/tags/directed-search/</link>
-      <pubDate>Sat, 20 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://pascalmichaillat.org/tags/directed-search/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>divine coincidence</title>
-      <link>https://pascalmichaillat.org/tags/divine-coincidence/</link>
-      <pubDate>Sat, 20 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://pascalmichaillat.org/tags/divine-coincidence/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>inflation</title>
-      <link>https://pascalmichaillat.org/tags/inflation/</link>
-      <pubDate>Sat, 20 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://pascalmichaillat.org/tags/inflation/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>kinked Phillips curve</title>
-      <link>https://pascalmichaillat.org/tags/kinked-phillips-curve/</link>
-      <pubDate>Sat, 20 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://pascalmichaillat.org/tags/kinked-phillips-curve/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Phillips curve</title>
-      <link>https://pascalmichaillat.org/tags/phillips-curve/</link>
-      <pubDate>Sat, 20 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://pascalmichaillat.org/tags/phillips-curve/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>price rigidity</title>
-      <link>https://pascalmichaillat.org/tags/price-rigidity/</link>
-      <pubDate>Sat, 20 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://pascalmichaillat.org/tags/price-rigidity/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>wealth in the utility</title>
-      <link>https://pascalmichaillat.org/tags/wealth-in-the-utility/</link>
-      <pubDate>Sat, 20 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://pascalmichaillat.org/tags/wealth-in-the-utility/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>economic slack</title>
-      <link>https://pascalmichaillat.org/tags/economic-slack/</link>
-      <pubDate>Mon, 15 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://pascalmichaillat.org/tags/economic-slack/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>fiscal policy</title>
       <link>https://pascalmichaillat.org/tags/fiscal-policy/</link>
       <pubDate>Mon, 15 Jan 2024 00:00:00 +0000</pubDate>
@@ -424,13 +431,6 @@
       <link>https://pascalmichaillat.org/tags/hosios-condition/</link>
       <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
       <guid>https://pascalmichaillat.org/tags/hosios-condition/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>tightness gap</title>
-      <link>https://pascalmichaillat.org/tags/tightness-gap/</link>
-      <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
-      <guid>https://pascalmichaillat.org/tags/tightness-gap/</guid>
       <description></description>
     </item>
     <item>
