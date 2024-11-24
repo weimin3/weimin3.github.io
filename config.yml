@@ -1,4 +1,4 @@
-baseURL: "" 
+baseURL: "https://weimin3.github.io/" 
 title: Pascal Michaillat
 theme: PaperMod
 enableInlineShortcodes: true
